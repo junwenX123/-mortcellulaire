@@ -1,0 +1,20 @@
+{
+  "name": "baseline",
+  "seed": 123,
+  "Lx": 10.0,
+  "Ly": 10.0,
+  "burn_in_deaths": 500,
+  "target_deaths": 200,
+  "block_duration": 20.0,
+  "max_blocks": 500,
+  "lambda_a_1": 0.6,
+  "lambda_a_c": 0.05,
+  "lambda_d": 0.25,
+  "beta_a_R": 1.4,
+  "beta_a_T": 0.8,
+  "beta_d_R": 1.2,
+  "beta_d_T": 0.6,
+  "time_bins": 20,
+  "space_bins": 10,
+  "chi2_bins": 5
+}
