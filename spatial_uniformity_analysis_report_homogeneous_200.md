@@ -16,7 +16,6 @@ CV_{\mathrm{space}}
 \frac{\mathrm{sd}(H_1,\ldots,H_k)}
 {\mathrm{mean}(H_1,\ldots,H_k)}.
 $$
-
 Under spatial uniformity, the bin counts are approximately multinomial with probability `1/k` per bin. Thus a useful finite-sample reference is
 
 $$
