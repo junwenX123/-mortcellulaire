@@ -1,0 +1,20 @@
+{
+  "name": "low_rejection_test",
+  "seed": 128,
+  "Lx": 10.0,
+  "Ly": 10.0,
+  "block_duration": 10.0,
+  "max_blocks": 2000,
+  "burn_in_deaths": 500,
+  "target_deaths": 200,
+  "lambda_a_1": 1.2,
+  "lambda_a_c": 0.08,
+  "beta_a_R": 0.9,
+  "beta_a_T": 0.5,
+  "lambda_d": 0.25,
+  "beta_d_R": 3.0,
+  "beta_d_T": 2.0,
+  "time_bins": 20,
+  "space_bins": 10,
+  "chi2_bins": 5
+}
