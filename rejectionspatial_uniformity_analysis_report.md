@@ -15,6 +15,7 @@ Burn-in removes the initial transient period: the first 500 observed deaths are 
 ## Spatial coefficient of variation
 
 The spatial coefficient of variation is
+
 $$
 CV_{space}=\frac{sd(H_1,\ldots,H_k)}{mean(H_1,\ldots,H_k)}.
 $$
