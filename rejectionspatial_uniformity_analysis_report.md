@@ -15,10 +15,9 @@ Burn-in removes the initial transient period: the first 500 observed deaths are 
 ## Spatial coefficient of variation
 
 The spatial coefficient of variation is
-
-```latex
+$$
 CV_{space}=\frac{sd(H_1,\ldots,H_k)}{mean(H_1,\ldots,H_k)}.
-```
+$$
 
 For the 20 x 20 plot grid, k = 400 and n = 1000, so CV_uniform ≈ sqrt((400-1)/1000) = 0.632.
 
@@ -26,9 +25,9 @@ For the 20 x 20 plot grid, k = 400 and n = 1000, so CV_uniform ≈ sqrt((400-1)/
 
 The 20 x 20 grid has expected count 2.50 per bin. The formal diagnostic uses the coarser 10 x 10 grid, where expected count is 10.00 per bin.
 
-```latex
+$$
 X^2 = \sum_{i=1}^{k} \frac{(O_i-E_i)^2}{E_i}.
-```
+$$
 
 Under spatial uniformity, X^2/df should fluctuate around 1. Here df = 99, so sqrt(2/df) = 0.142.
 
