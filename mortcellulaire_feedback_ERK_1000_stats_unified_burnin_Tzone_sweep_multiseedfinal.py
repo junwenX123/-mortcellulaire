@@ -16,11 +16,6 @@ workflow implemented here:
   5. Plot a 2D histogram in space with a common colorbar scale across scenarios.
   6. Play with several parameter sets and save a comparison CSV file.
 
-Run:
-    python mortcellulaire_feedback_ERK_1000_stats_unified_burnin.py
-
-Outputs are saved in:
-    simulation_outputs_1000_unified_burnin/
 """
 
 from __future__ import annotations
