@@ -6,21 +6,15 @@ For each parameter setting, the five independent replicates were pooled. If a pa
 
 The hypotheses are:
 
-\[
-H_0:\pi=p_0,\qquad H_A:\pi>p_0.
-\]
+$$H_0:\pi=p_0,\qquad H_A:\pi>p_0.$$
 
 Since 52 parameter settings were tested, Bonferroni correction was applied. With global alpha = 0.05, the Bonferroni threshold is:
 
-\[
-\alpha_\mathrm{Bonferroni} = \frac{0.05}{52} = 0.000961538.
-\]
+$$\alpha_\mathrm{Bonferroni} = \frac{0.05}{52} = 0.000961538.$$
 
 A parameter setting is considered significant only if:
 
-\[
-p_\mathrm{pooled} < 0.000961538.
-\]
+$$p_\mathrm{pooled} < 0.000961538.$$
 
 ## Results
 
