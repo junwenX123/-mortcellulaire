@@ -1,1 +1,9 @@
 # mortcellulaire
+
+In this project I worked on.,.... INTRO about the project. 
+
+The main script is "......" and it does .......
+
+In the script "......" I calculate.......
+
+This algorithm is improved in the script ......
